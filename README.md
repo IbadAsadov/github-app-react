@@ -1,0 +1,1 @@
+Write the github access code in the .env file to the variable REACT_APP_API_TOKEN
